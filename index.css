@@ -14,7 +14,7 @@ body {
 
 header {
     background-color: #ffffff;
-    padding: 20px;
+    padding: 30px;
     border-bottom: 1px solid #e3e3e3;
 }
 
@@ -42,7 +42,7 @@ nav a:hover {
 main {
     width: 80%;
     margin: 40px auto;
-    background-color: #ffffff;
+    background-color: #c8d8c8;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -71,18 +71,18 @@ article a {
     display: inline-block;
     text-decoration: none;
     color: #333;
-    background-color: #f2f2f2;
+    background-color: #89B789;
     padding: 5px 10px;
     border-radius: 3px;
     margin-top: 10px;
 }
 
 article a:hover {
-    background-color: #e3e3e3;
+    background-color: #ffffff;
 }
 
 footer {
-    background-color: #ffffff;
+    background-color: #5f805f;
     padding: 20px;
     text-align: center;
     border-top: 1px solid #e3e3e3;
