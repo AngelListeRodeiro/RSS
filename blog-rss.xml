@@ -2,32 +2,39 @@
 <rss version="2.0">
 <channel>
   <title>My Blog</title>
-  <link>https://www.example.com/</link>
-  <description>This is my personal blog.</description>
-  <language>en-us</language>
-  <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+  <link>https://angellisterodeiro.github.io/RSS/</link>
+  <description>Blog Personal</description>
+  <language>es-es</language>
+  <lastBuildDate>Tue, 11 Feb 2025 12:00:00 GMT</lastBuildDate>
 
   <item>
-    <title>Blog Entry 1</title>
-    <link>https://www.example.com/blog-entry-1.html</link>
-    <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce feugiat justo vel libero vulputate, in tempus augue consectetur</description>
-<pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
-<guid>https://www.example.com/blog-entry-1.html</guid>
-</item>
+    <title>Couña</title>
+    <link>https://angellisterodeiro.github.io/RSS/</link>
+    <description>Importante puerto histórico, se sitúa en la costa noroeste de la península ibérica, en las Rías Altas, concretamente en la Costa Ártabra, siendo la ciudad más grande del Golfo Ártabro. El centro de la ciudad se extiende sobre una península unida a tierra firme por un estrecho istmo, por lo que presenta dos fachadas marítimas distintas: la portuaria (hacia la ría de La Coruña) y otra de mar abierto, hacia la ensenada del Orzán, y sobre la que se extienden las principales playas urbanas (Riazor y Orzán).</description>
+    <pubDate>Tue, 11 Feb 2025 12:00:00 GMT</pubDate>
+    <guid>https://angellisterodeiro.github.io/RSS/</guid>
+  </item>
 
   <item>
-    <title>Blog Entry 2</title>
-    <link>https://www.example.com/blog-entry-2.html</link>
-    <description>Proin tincidunt auctor urna, non iaculis dolor cursus nec. Sed ut risus nisl. Morbi id elit eget erat aliquet ullamcorper.</description>
-    <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
-    <guid>https://www.example.com/blog-entry-2.html</guid>
+    <title>Lugo</title>
+    <link>https://angellisterodeiro.github.io/RSS/</link>
+    <description>De origen romano, fue fundada en el año 25 a. C. por Paulo Fabio Máximo y es la más antigua de Galicia. Construida en las cercanías de un castro, en la época romana recibió el nombre de Lucus Augusti.</description>
+    <pubDate>Tue, 11 Feb 2025 12:00:00 GMT</pubDate>
+    <guid>https://angellisterodeiro.github.io/RSS/</guid>
   </item>
   <item>
-    <title>Blog Entry 3</title>
-    <link>https://www.example.com/blog-entry-3.html</link>
-    <description>Praesent eleifend metus et odio ullamcorper, at auctor elit venenatis. Sed cursus malesuada eros, vitae laoreet orci auctor.</description>
-    <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
-    <guid>https://www.example.com/blog-entry-3.html</guid>
+    <title>Ourense</title>
+    <link>https://angellisterodeiro.github.io/RSS/</link>
+    <description>es una ciudad de Galicia conocida por sus aguas termales, como la Burga de Abajo, una fuente neoclásica. Cerca de allí, el Centro de Interpretación As Burgas investiga la historia de los baños medicinales de la ciudad. La catedral de Orense, del siglo XII, alberga la Puerta del Paraíso, muy ornamentada.</description>
+    <pubDate>Tue, 11 Feb 2025 12:00:00 GMT</pubDate>
+    <guid>https://angellisterodeiro.github.io/RSS/</guid>
+  </item>
+  <item>
+    <title>Pontevedra</title>
+    <link>https://angellisterodeiro.github.io/RSS/</link>
+    <description>Limita con las provincias españolas de La Coruña al norte, Lugo al nordeste y Orense al este, con el distrito portugués de Viana do Castelo al sur y con el océano Atlántico al oeste.En esta provincia se encuentra el parque nacional de las Islas Atlánticas de Galicia, que comprende las islas de Cíes en la Ría de Vigo, Ons en la ría de Pontevedra y Cortegada en la ría de Arosa.</description>
+    <pubDate>Tue, 11 Feb 2025 12:00:00 GMT</pubDate>
+    <guid>https://angellisterodeiro.github.io/RSS/</guid>
   </item>
 </channel>
 </rss>
